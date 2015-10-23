@@ -2,19 +2,25 @@
     "body": {
         "section1": {
             "items": {
-                "item4": {
-                    "div": {"class": "ui-block-d"},
-                    "a": {"class": "gps-track-start", "href": "annotate-gps.html"},
-                    "img": {
-                        "src": "plugins/gps-tracking/css/images/gps.png",
-                        "alt": "Capture GPS Track"
+                "item1": {
+                    "div": {"class": "ui-block-a"},
+                    "a": {
+                        "class": "annotate-custom-form", "href": "#",
+                        "data-editor-group": "default",
+                        "data-editor-type": "opal.edtr"
                     },
-                    "title": "GPS Track"
-                }
+                    "img": {
+                        "src": "css/images/custom-public.png",
+                        "alt": "OPAL Tree Health Survey"
+                    },
+                    "title": "Tree Health Survey"
+                },
+                "item2": {},
+                "item3": {}
             }
         },
         "section2": {
-            "title": "Custom Forms",
+            "title": "",
             "items": {}
         }
     }

@@ -1,0 +1,18 @@
+{
+    "header": {
+        "buttons" : {
+            "map-download":{
+                "class": "map-download",
+                "href": "save-map.html",
+                "data-role": "button",
+                "data-inline": "true",
+                "data-transition": "none",
+                "data-iconpos": "notext"
+            }
+        }
+    },
+    "body": {
+        "list": "List Observations",
+        "items" : "Observations"
+    }
+}

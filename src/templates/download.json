@@ -1,18 +1,43 @@
 {
     "body":{
-        "section1": {
-            "title": "Download to Device",
-            "items": {
+        "section1":{
+            "title": "",
+            "items":{
                 "item1": {
-                    "div": {"class": "ui-block-a"},
-                    "a": {"class": "annotate-image-form", "href": "save-map.html"},
-                    "img": {"src": "theme/css/images/downloadmaps.png", "alt": "Save Maps"},
-                    "title": "Maps"
+                    "div": {
+                        "class": "ui-block-c sync-login",
+                        "id": "home-content-login"
+                    },
+                    "a": {"href": "#"},
+                    "img": {
+                        "src": "plugins/sync/css/images/login-large.png",
+                        "alt": "Login"
+                    },
+                    "title": "Login"
                 }
             }
         },
         "section2":{
-            "title": "Sync (Upload/Download to Dropbox)",
+            "title": "",
+            "items":{
+                "item1": {
+                    "div": {
+                        "class": "ui-block-c sync-download-layers-button"
+                    },
+                    "a": {
+                        "class": "annotate-text-form",
+                        "href": "saved-layers.html"
+                    },
+                    "img": {
+                        "src": "plugins/overlays/css/images/maplayers.png",
+                        "alt": "Download Layers"
+                    },
+                    "title": "Download Layers"
+                }
+            }
+        },
+        "section3":{
+            "title": "",
             "items":{
                 "item1": {
                     "div": {"class": "ui-block-a"},
@@ -21,37 +46,7 @@
                         "src": "theme/css/images/documents.png",
                         "alt": "View Records"
                     },
-                    "title": "Records"
-                },
-                "item2": {
-                    "div": {
-                        "class": "ui-block-b sync-upload-button",
-                        "style": "display: none;"
-                    },
-                    "a": {
-                        "class": "download-upload-records",
-                        "href": "#"
-                    },
-                    "img": {
-                        "src": "plugins/sync/css/images/uploadrecords-main.png",
-                        "alt": "Upload Records"
-                    },
-                    "title": "Upload Records"
-                },
-                "item3": {
-                    "div": {
-                        "class": "ui-block-c sync-download-button",
-                        "style": "display: none;"
-                    },
-                    "a": {
-                        "class": "annotate-text-form",
-                        "href": "#"
-                    },
-                    "img": {
-                        "src": "plugins/sync/css/images/download-editors.png",
-                        "alt": "Download Editors"
-                    },
-                    "title": "Download Forms"
+                    "title": "Observations"
                 }
             }
         }
