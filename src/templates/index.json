@@ -23,9 +23,20 @@
                 "item3": {}
             }
         },
-        "section3": {
-            "title": "",
+         "section3": {
+            "title": {},
             "items": {}
+        },
+        "section5": {
+            "title": {
+                "en": ""
+            },
+            "items": {
+                "item1": {
+                    "div": {"class": "ui-block-e"},
+                    "title": "Powered by <a href='http://cobwebproject.eu'>COBWEB</a>"
+                }
+            }
         }
     }
 }

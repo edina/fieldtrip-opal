@@ -93,3 +93,7 @@
 #saved-records-page-header h2{
     background: #699f41;
 }
+
+legend{
+    font-size: 16px;
+}
