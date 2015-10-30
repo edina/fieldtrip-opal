@@ -5,13 +5,16 @@
             "items": {}
         },
         "section2": {
+            "title": {
+                "en": "Welcome to the OPAL Tree Health Survey"
+            },
             "items": {
                 "item1": {
                     "div": {"class": "ui-block-a"},
                     "a": {
                         "class": "annotate-custom-form", "href": "#",
-                        "data-editor-group": "default",
-                        "data-editor-type": "opal.edtr"
+                        "data-editor-group": "public",
+                        "data-editor-type": "5106d3aa-99ac-4186-b50d-6fcfdf9946f4.edtr"
                     },
                     "img": {
                         "src": "css/images/custom-public.png",

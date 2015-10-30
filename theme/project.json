@@ -28,12 +28,13 @@
             "gps-tracking": "git@github.com:edina/fieldtrip-gps-tracking.git#0.7.0",
             "map-search": "git@github.com:edina/fieldtrip-map-search.git#0.5.0",
             "offline-maps": "git@github.com:edina/fieldtrip-offline-maps.git#0.5.2",
-            "sync": "git@github.com:edina/fieldtrip-sync.git#0.8.6",
+            "sync": "git@github.com:edina/fieldtrip-sync.git#0.8.7",
             "overlays": "git@github.com:edina/fieldtrip-overlays.git#0.3.3",
             "extend-record": "git@github.com:edina/fieldtrip-extend-record.git#0.1.4",
             "decision-tree": "git@github.com:edina/fieldtrip-decision-tree.git#0.3.3",
             "camera-va": "git@github.com:edina/fieldtrip-camera-va.git#0.1.1",
-            "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1"
+            "position-tracking": "git@github.com:edina/fieldtrip-position-tracking.git#0.2.1",
+            "opal-customisation": "git@github.com:edina/fieldtrip-opal-customisation.git"
         }
     }
 }
